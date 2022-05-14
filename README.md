@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 <h3>Linguagens e Ferramentas</h3>
 <hr>
 <div style="display:flex">
-<img height="100px" src="https://github-readme-stats.vercel.app/api?username=lucasfariarj&theme=radical&custom_title=⚡Estatisticas%20do%20Git&title_color=70DA1C&bg_color=141414&text_color=fff">
-<img  height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariarj&layout=compact&title_color=70DA1C&bg_color=141414&text_color=fff&custom_title=⚡Trabalho%20com:">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucasfariarj&theme=radical&custom_title=⚡Estatisticas%20do%20Git&title_color=70DA1C&bg_color=141414&text_color=fff">
+<img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariarj&layout=compact&title_color=70DA1C&bg_color=141414&text_color=fff&custom_title=⚡Trabalho%20com:">
 </div>
 <br />
 <div style="display:flex">
