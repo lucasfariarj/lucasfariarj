@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />     
 </div>
-<br />
 <h3>Contato</h3>
 <hr>
 <div style="display:flex">
