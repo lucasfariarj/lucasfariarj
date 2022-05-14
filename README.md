@@ -1,11 +1,8 @@
 <h1>Olá mundo! 🌎</h1>
 
-Here are some ideas to get you started:
-
 - 🔭 Back-End PHP Developer
-- 🌱 Atualmente estudando também: React e VUE
 - 📫 Cabo Frio - RJ
-- ⚡ https://lucasfariarj.github.io/Portfolio/
+- 🌐 https://lucasfariarj.github.io/Portfolio/ 
 
 <h3>Linguagens e Ferramentas</h3>
 <hr>
@@ -28,7 +25,6 @@ Here are some ideas to get you started:
 <div style="display:flex">
 <a href="https://www.linkedin.com/in/lucas-faria-47673b18b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </ul>
-          
 </div>
           
           
