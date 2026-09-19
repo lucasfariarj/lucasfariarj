@@ -2,7 +2,7 @@
 
 - 🔭 Back-End PHP Developer
 - 📫 Cabo Frio - RJ
-- 🌐 https://lucasfariarj.github.io/Portfolio/ 
+- 🌐 https://lfdev-tau.vercel.app/
 
 <h3>Linguagens e Ferramentas</h3>
 <hr>
